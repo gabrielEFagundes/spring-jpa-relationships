@@ -1,0 +1,11 @@
+{
+ "defaultBranch": "main",
+ "useEmoji": true,
+ "useAi": false,
+ "url": "https://github.com/gabrielEFagundes/relationship-example",
+ "login": {
+  "user": "User",
+  "email": "",
+  "abundance": "--local"
+ }
+}
